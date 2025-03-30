@@ -36,7 +36,6 @@ print("O desvio padrão é:", df_total_compras['total_compra'].std().round(2))
 
 """////////////////////////"""
 # Calcular média e desvio padrão
-media_total_compra = df_total_compras['total_compra'].mean()
 desvio_padrao = df_total_compras['total_compra'].std().round(2)
 
 # Definir limite superior (1 desvio padrão acima da média)

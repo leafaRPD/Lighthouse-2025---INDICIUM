@@ -2,7 +2,8 @@ import os
 import pandas as pd
 
 # Caminho da pasta onde os arquivos estão armazenados
-caminho_pasta = r"C:\Users\RAFAEL\PycharmProjects\PythonProject\Data"
+# alterar o caminho conforme necessidade, caso tenha gravado em outra pasta
+caminho_pasta = r"C:\Users\RAFAEL\PycharmProjects\Lighthouse-2025---INDICIUM\Data"
 
 # Lista para armazenar os DataFrames
 lista_dfs = []
